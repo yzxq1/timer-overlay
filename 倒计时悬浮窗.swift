@@ -1,4 +1,4 @@
-// TimerOverlay：监听 macOS「时钟」App 的计时器，运行时在屏幕上显示悬浮倒计时窗。
+// TimerOverlay 倒计时悬浮窗：监听 macOS「时钟」App 的计时器，运行时在屏幕上显示悬浮倒计时窗。
 // 数据源：~/Library/Group Containers/group.com.apple.mobiletimerd/local.sqlite（只读）
 import AppKit
 import SQLite3
