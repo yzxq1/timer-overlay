@@ -1,6 +1,4 @@
-# TimerOverlay
-
-中文名：倒计时悬浮窗
+# TimerOverlay 倒计时悬浮窗
 
 TimerOverlay 在 macOS「时钟」App 的计时器运行时，在屏幕上显示一个置顶的悬浮倒计时窗口。
 
